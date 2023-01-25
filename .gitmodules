@@ -4,3 +4,6 @@
 [submodule "papa"]
 	path = papa
 	url = https://github.com/hemanth103/iac.git
+[submodule "zzz"]
+	path = zzz
+	url = https://gitlab.com/ulashi.gopal/tf-to-azure.git
