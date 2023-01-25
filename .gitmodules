@@ -1,3 +1,6 @@
 [submodule "hemanthx"]
 	path = hemanthx
 	url = https://github.com/hemanth103/hello-whale.git
+[submodule "papa"]
+	path = papa
+	url = https://github.com/hemanth103/iac.git
